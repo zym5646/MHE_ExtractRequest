@@ -1,0 +1,25 @@
+{
+  "name": "mhe_extractrequest",
+  "version": "1.0.0",
+  "description": "extract request's property for mhe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zym5646/MHE_ExtractRequest.git"
+  },
+  "keywords": [
+    "mhe"
+  ],
+  "author": "Yongming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zym5646/MHE_ExtractRequest/issues"
+  },
+  "homepage": "https://github.com/zym5646/MHE_ExtractRequest#readme",
+  "dependencies": {
+    "jsonpath": "^1.0.0"
+  }
+}
